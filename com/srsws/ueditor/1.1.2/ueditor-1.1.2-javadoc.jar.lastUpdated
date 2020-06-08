@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Jun 08 16:56:56 CST 2020
+@default-Public-https\://raw.github.com/zengds/jh-maven-repository/snapshot/.lastUpdated=1591606616480
+https\://raw.github.com/zengds/jh-maven-repository/snapshot/.error=Could not transfer artifact com.srsws\:ueditor\:jar\:javadoc\:1.1.2 from/to Public (https\://raw.github.com/zengds/jh-maven-repository/snapshot/)\: Connection reset
+http\://maven.aliyun.com/nexus/content/groups/public/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1591586620086
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1591586619290
+https\://repo.maven.apache.org/maven2/.error=

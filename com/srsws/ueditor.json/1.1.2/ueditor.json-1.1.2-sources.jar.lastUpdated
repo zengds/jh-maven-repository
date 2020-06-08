@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Jun 08 16:55:41 CST 2020
+https\://raw.github.com/zengds/jh-maven-repository/snapshot/.lastUpdated=1591606541777
+https\://raw.github.com/zengds/jh-maven-repository/snapshot/.error=
+http\://maven.aliyun.com/nexus/content/groups/public/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1591586616634
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1591586613978
+https\://repo.maven.apache.org/maven2/.error=
